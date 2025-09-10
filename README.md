@@ -1,7 +1,7 @@
-# Hi, I'm Luca Giordano 👋
+# Hi, I'm Luca 👋
 
 I’m a **Mobile Developer (5+ years)** passionate about creating clean, user-friendly apps.  
-Currently based in **Munich** (originally from Treviso, Italy) and holding a **Bachelor’s in Computer Science**.  
+Currently based in **Munich** 🇩🇪 (originally from Treviso 🇮🇹) and holding a **Bachelor’s in Computer Science**.  
 
 📱 My journey so far:  
 - Building apps with **Flutter** (and occasionally Swift/Kotlin)  
