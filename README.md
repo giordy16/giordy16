@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Luca Giordano 👋
 
-<!--
-**giordy16/giordy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Mobile Developer (5+ years)** passionate about creating clean, user-friendly apps.  
+Currently based in **Munich** (originally from Treviso, Italy) and holding a **Bachelor’s in Computer Science**.  
 
-Here are some ideas to get you started:
+📱 My journey so far:  
+- Building apps with **Flutter** (and occasionally Swift/Kotlin)  
+- Exploring mobile architectures, performance, and clean UI  
+- Creator of [WealthGuard](https://www.wealthguardapp.de/), an app to track investments & personal net worth  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Outside of coding:  
+- Football lover
+- I’m passionate about **personal finance & investing**
+- I enjoy hitting the gym, traveling, and playing OPTCG 
